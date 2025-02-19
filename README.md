@@ -1,6 +1,5 @@
 # Open Multiplayer 
 # Server Name: Redwood Community
-Welcome to the official server of **[Your Server Name]**. This server is built using the **NG:RP** base gamemode and is currently under development.
 
 ## Current Development
 The server is actively being developed with new features, improvements, and fixes. Our goal is to create an immersive and engaging environment for players who enjoy roleplaying in a unique and dynamic world.
